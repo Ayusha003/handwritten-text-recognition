@@ -38,3 +38,6 @@ The project consists of a Python-based backend and a Flutter-based frontend.
 - Text-to-Speech (TTS)
 - Retrieval-Augmented Generation (RAG)
 
+### Model Files
+  The large pretrained model weight file ('model.safetensors') is not included in this repository due to its large file size. The source code and relevant project files are   included to demonstrate the implementation and architecture of the system.
+

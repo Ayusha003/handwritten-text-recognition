@@ -1,0 +1,125 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+It enables systems to reason, learn, and act autonomously.
+AI applications include natural language processing, computer vision, and robotics.
+Artificial Intelligence enables machines to perform tasks that typically require human intelligence.
+Natural Language Processing is a branch of AI that deals with human language.
+Machine Learning is a technique used to achieve AI by allowing systems to learn from data.
+Neutral network are inspired by the human bar in and are used in learning to model complex relationship
+Statistics and mathematical methods comprise the foundation of Machine Learning
+AI stands for Artificial Intelligence.
+ML stands for Machine Learning.
+AI means making machines smart like humans.
+Machine Learning is a part of AI.
+ML helps computers learn from data.
+AI can see, hear, speak, and make decisions.
+ML needs data to learn.
+The more data ML gets, the better it becomes.
+AI is used in robots, games, and voice assistants.
+ML finds patterns in data and makes predictions.
+AI can do tasks like humans without being told each step.
+Machine Learning uses algorithms to learn.
+Supervised learning is when ML learns from labeled data.
+Unsupervised learning finds hidden patterns in data.
+Deep learning is a type of machine learning using neural networks.
+Neural networks work like the human brain.
+AI is used in self-driving cars and chatbots.
+Machine Learning is used in spam detection in emails.
+AI can help doctors find diseases.
+ML can suggest movies or songs you might like.
+AI improves with time and experience.
+Training a model means teaching the machine using data.
+Testing checks how well the model learned.
+Accuracy tells how correct the model’s predictions are.
+Data is the most important part of ML.
+AI can be weak (narrow) or strong (general).
+Python is a popular language used in AI and ML.
+AI is the future of technology.
+AI needs ethics to make fair decisions.
+ML cannot work without good quality data.
+Artificial Intelligence helps computers act smart.
+Machine Learning helps machines learn without being programmed again and again.
+AI learns from experience just like humans.
+ML models are trained using historical data.
+AI is used in Google Assistant and Siri.
+AI can translate languages in real-time.
+ML can detect faces in photos.
+Chatbots use AI to talk like humans.
+AI can drive cars without human help.
+ML helps websites show ads that match your interest.
+AI in healthcare helps find diseases early.
+AI can understand natural human language.
+Natural Language Processing (NLP) is a part of AI.
+AI can detect emotions in a person’s voice.
+AI is used in smart home devices like Alexa.
+Unsupervised learning does not need labels in data.
+Reinforcement learning learns by reward and punishment.
+AI helps in fraud detection in banks.
+ML uses training data and test data.
+A model is what the machine learns from data.
+AI can help in writing, drawing, and creating music.
+Machine Learning can be used for stock market prediction.
+Overfitting is when a model learns too much from training data.
+Underfitting is when a model learns too little from data.
+AI models must be trained, tested, and improved regularly.
+Clean and correct data is important for ML.
+Deep learning uses layers of neural networks.
+TensorFlow and PyTorch are tools for deep learning.
+AI is used in security systems like CCTV monitoring.
+Machine Learning can learn from images, text, and sound.
+AI can be trained to play games like chess.
+Machine Learning needs lots of examples to learn.
+A dataset is a collection of data used to train models.
+AI systems improve when they get new data.
+The goal of AI is to solve problems like a human.
+Machine Learning can be used in weather prediction.
+In supervised learning, the output is already known.
+In unsupervised learning, the system finds its own patterns.
+Labeled data means each input has the correct output with it.
+AI can be used to check spelling and grammar.
+Machine Learning is used in search engines like Google.
+Classification means sorting data into categories.
+Regression is used to predict numbers, like prices or scores.
+AI can help detect fake news on the internet.
+Bias in AI can make the model unfair.
+Training a model takes time and computer power.
+A good model makes correct predictions most of the time.
+A bad model gives wrong results often.
+Accuracy is the percent of correct predictions.
+Precision and recall are used to measure model performance.
+A confusion matrix shows how well a model is performing.
+Preprocessing means cleaning and preparing the data.
+Feature selection means choosing the right input data.
+AI can read handwritten text using OCR.
+Chatbots can learn to respond better using ML.
+AI is used in digital marketing to target customers.
+Some AI models can generate human-like text.
+Data can be structured (like tables) or unstructured (like images).
+AI models need to avoid overfitting and underfitting.
+You can retrain a model with new data to make it better.
+Overfitting reduces model accuracy Algorithms learn from data Machine learning improves predictions using historical data Statistics and mathematical methods comprise the foundation of Machine Learning
+CNN stands for Convolutional Neural Network.
+CNN is used for image recognition tasks.
+CNN uses filters to detect patterns in images.
+A convolution layer extracts features from input.
+CNN models are good at detecting edges and shapes.
+CNNs work well with visual data like photos.
+Pooling layers reduce the size of the data.
+Max pooling keeps the most important features.
+CNN uses multiple layers to understand images.
+ReLU activation adds non-linearity to CNN.
+CNN models are widely used in deep learning.
+The input of CNN is usually an image matrix.
+CNNs are trained using backpropagation.
+Stride controls how the filter moves in CNN.
+Padding helps maintain the image size in CNN.
+CNNs are also used in handwriting recognition.
+Filters in CNN learn to detect different patterns.
+CNN output is passed through a dense layer.
+Softmax is often used in the final CNN layer.
+CNNs reduce the need for manual feature extraction.
+Algorithms learn from data iteratively. Regression predict continuous values. Classification assign labels to input. Feature selection boots model performance. Hyperparameters control algorithm behavior
+Overfitting reduces model accuracy Algoritms earn From data Machine Leocning improves precautions historical data classification signs labels to input Using
+birds Flew across the sky in perfect harmony The garden was full of colourful blooming flowers sat quietly and listened to the wind
+1.1 Introduction In the age of digitalization automatic data to assisting and more crucial to accurately recognize and devices, it is becoming more in many domain, such as banking and handle handwritten information. It is highly valued culuaayheritaga Thecssue ofhkid! ritdefi digcerelegaicompliance, healthcare; education, and Despite significant digit recognition has been approached in variety of ways: advancement in optical character handwritten text recognition is still a challenging recognition (OCR) technologies; input data, character forms, and topic [4] His is due to the wide variations in effective recognition handwriting style: Because this complexity, dependaboesnd systems that can adjust to these variance must be classification tasks like handwritten text developed. For picture tool, especially when combined recognition; learning has emerged as a powerful with Convolutional Neutral Network (CNNs). CNNs can use hierarchical feature extraction to automatically learn relevant handwritten text features from big datasets [10]: In addition to increasing practically the requirement for human recognition accuracy, this capacity in the field. The primary feature engineering, which has been a hardly objective of this work is to examine the handwritten text performance of CNN-based architecture. recognition Handwritten text recognition is the process of automatically identifying and deciding handwriting letters, digits, and test Throughtoeese of advanced deep learning technique; this work aims to address typical problemsosch distortion; and variance in handwriting as noise; style. He'Ll look at the architecture the CNN model, which consists of fully connected, pooling, and convolutional extract and layers Together; these elements process features at various abstraction levels He also want to model's potential for practical uses and assess how well it investigate the perform on common datasets from entry deep technique lowers long
+Types of CNN are LeNet-5, AlexNet, VGGNet, GoogLeNet, ResNet, MobileNet, DenseNet, R-CNN, Fast R-CNN, Mask R-CNN, YOLO.
+Overfitting reduces model accuracy Algorithms learn from data Machine learning improves predictions using historical data

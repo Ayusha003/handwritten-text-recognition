@@ -1,0 +1,5 @@
+Hi! How can I assist you today?
+Hello! I'm your offline assistant.
+I'm sorry, I couldn't find any relevant information for your question.
+Please try rephrasing your question or ask something else.
+You can ask me about Python, AI, or general facts.
